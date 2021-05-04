@@ -1,2 +1,2 @@
 # Tic-Tac-Toe
-Tic Tac Toe created in basic Python using the concept of magic squares
+Tic Tac Toe created in Python using the concept of magic squares
